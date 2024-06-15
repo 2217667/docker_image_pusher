@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 pppwn:latest
 xiaoyaliu/alist:latest
-linuxserver/heimdall:latest
+heimdall:latest
