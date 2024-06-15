@@ -8,3 +8,4 @@ nandolavras/pppwn
 nyanmisaka/jellyfin
 centos
 eclipse-temurin
+xiaoyaliu/alist
